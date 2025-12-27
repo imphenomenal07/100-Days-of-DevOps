@@ -23,7 +23,7 @@ Search for the keyword 'LISTEN' and update the port 80 to other
  $ sudo mv /apps/index.html /var/www/html/apps
  $ sudo mv /beta/index.html /var/www/html/beta
 
-6. Now enable and restart service and check status
+# 6. Now enable and restart service and check status
 
 $ sudo systemctl enable httpd; sudo systemctl restart httpd; sudo systemctl status httpd
 
