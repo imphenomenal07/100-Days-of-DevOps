@@ -38,4 +38,4 @@ CMD ["apachectl", "-D", "FOREGROUND"]
   $  docker run -d -p 90:5004 test
 
 # 6. To verify the connectivity, open new terminal and curl the service
-  $  curl stapp02:5004
+  $  curl stapp02:90
