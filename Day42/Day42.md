@@ -14,9 +14,9 @@
   beta
 
 #docker network create -d driver-name \
-  --subnet=<subnet-range> \
-  --ip-range=<IP-range> \
-  --gateway=<Gateway-IP> \
+  --subnet= subnet-range \
+  --ip-range= IP-range \
+  --gateway= Gateway-IP \
   -o parent=eth0 \
   network-name
 
