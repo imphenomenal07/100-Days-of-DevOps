@@ -1,4 +1,4 @@
-# Day48: Deploy Pods in Kubernetes Cluster
+# Day 47: Docker Python App
 
 # 1. Login into server
   $  ssh user@host
