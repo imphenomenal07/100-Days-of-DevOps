@@ -1,4 +1,4 @@
-# Day10: Linux Bash Script
+# Day 10: Linux Bash Script
 
 1. Login into the server
 
@@ -8,7 +8,7 @@ $ ssh username@server
 
 $ sudo yum install zip -y
 
-3. Create script as per the requirement
+3. Create script as mentioned in the task
 
 $ vi /scripts/official_backup.sh
 
