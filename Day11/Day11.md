@@ -1,4 +1,4 @@
-# Day11: Install and Configure Tomcat Server
+# Day 11: Install and Configure Tomcat Server
 
 Move war file jumphost to app server
 $ scp /tmp/ROOT.war tony@stapp01:/tmp
