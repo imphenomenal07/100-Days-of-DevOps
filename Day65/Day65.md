@@ -1,6 +1,6 @@
 # Day 66: Deploy MySQL on Kubernetes
 
-# 1. Create a config map for the given
+# 1. Create a config map file
 $  vi configmap.yaml
 
 apiVersion: v1
