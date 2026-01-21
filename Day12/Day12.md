@@ -1,7 +1,7 @@
-# Day12: Linux Network Services
+# Day 12: Linux Network Services
 
 1. Telnet into all server and which server has connectivity issue
-$ telent servername < Port number >
+$ telent servername Port-number
 
 $ telnet stapp01 6000
 
