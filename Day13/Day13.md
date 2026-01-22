@@ -1,4 +1,4 @@
-# Day13: IPtables Installation And Configuration
+# Day 13: IPtables Installation And Configuration
 
 1. Login into all APP servers
 $ ssh user@server
