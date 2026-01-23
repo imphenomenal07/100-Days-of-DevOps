@@ -1,4 +1,4 @@
-# Day14:  Linux Process Troubleshooting
+# Day 14:  Linux Process Troubleshooting
 
 1. As per the given task, login into all APP servers
 $ ssh user@server
