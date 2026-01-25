@@ -1,4 +1,4 @@
-# Day15: Setup SSL for Nginx
+# Day 15: Setup SSL for Nginx
 
 1. Login into the server: $ ssh user@server
 2. Check the if certs and private key available at /tmp location: $ ls /tmp
@@ -24,4 +24,4 @@ Now add server IP and update certs and private key path in TLS. Also uncomment w
 11. Now go to jusp host server and call the service: $ curl -Ik https://server-IP/
 
 
-# Summi the task if there is no error!!
+# Summit the task if there is no error!!
