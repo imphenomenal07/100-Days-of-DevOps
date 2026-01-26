@@ -1,4 +1,4 @@
-# Day16: Install and Configure Nginx as an LBR
+# Day 16: Install and Configure Nginx as an LBR
 
 1. Login into LB server: $ ssh user@server
 
@@ -37,4 +37,4 @@ The restart service and check status.
 8. If there is any issues in conf file, run the below command to find issues:
 $ sudo nginx -t
 
-If there is no issues, service up and runnig fine that means you have compeled the task!!
+# If there is no issues, service up and runnig fine that means you have compeled the task!!
