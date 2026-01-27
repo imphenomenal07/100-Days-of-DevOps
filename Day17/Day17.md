@@ -1,4 +1,4 @@
-# Day17: Install and Configure PostgreSQL
+# Day 17: Install and Configure PostgreSQL
 
 1. Login into DB server:
 # $ ssh user@server
