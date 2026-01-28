@@ -1,4 +1,4 @@
-# Day19: Install and Configure Web Application
+# Day 19: Install and Configure Web Application
 
 # 1. Login into all APP servers
 $ ssh user@servver
