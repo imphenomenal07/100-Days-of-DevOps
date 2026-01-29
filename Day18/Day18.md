@@ -1,4 +1,4 @@
-# Day 19: Install and Configure Web Application
+# Day 18: Configure LAMP server
 
 # 1. Login into all APP servers
 $ ssh user@servver
