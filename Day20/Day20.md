@@ -1,4 +1,4 @@
-# Day20: Configure Nginx + PHP-FPM Using Unix Sock
+# Day 20: Configure Nginx + PHP-FPM Using Unix Sock
 
 # 1. Login into the server
  $ ssh user@server
