@@ -1,4 +1,4 @@
-# Day21: Set Up Git Repository on Storage Server
+# Day 21: Set Up Git Repository on Storage Server
 
 # 1. Login into the storage server
   $ ssh user@server
