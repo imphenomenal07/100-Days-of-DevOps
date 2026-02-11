@@ -1,4 +1,4 @@
-# Day22: Clone Git Repository on Storage Server
+# Day 22: Clone Git Repository on Storage Server
 
 # 1. Login into storage server
   $ ssh user@server
