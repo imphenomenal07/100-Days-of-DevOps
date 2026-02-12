@@ -1,4 +1,4 @@
-# Day23: Fork a Git Repository
+# Day 23: Fork a Git Repository
 
 # 1. Click on the Gitea UI
   There is Gitea UI icon on the top right corner, click on that to get login page.
