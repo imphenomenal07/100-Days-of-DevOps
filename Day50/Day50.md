@@ -1,4 +1,4 @@
-# Day50: Set Resource Limits in Kubernetes Pods
+# Day 50: Set Resource Limits in Kubernetes Pods
 
 # 1. Create pod yaml file for creating with the given resources
   $  vi pod.yaml

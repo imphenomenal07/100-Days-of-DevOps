@@ -1,4 +1,4 @@
-# Day44: Write a Docker Compose File
+# Day 44: Write a Docker Compose File
 
 # 1. Login into server
   $  ssh user@host

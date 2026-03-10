@@ -1,4 +1,4 @@
-# Day46: Deploy an App on Docker Containers
+# Day 46: Deploy an App on Docker Containers
 
 # 1. Login into server
   $  ssh user@host

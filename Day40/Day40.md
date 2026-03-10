@@ -1,4 +1,4 @@
-# Day40: Docker EXEC Operations
+# Day 40: Docker EXEC Operations
 
 # 1. Login into server
   $  ssh user@host

@@ -1,4 +1,4 @@
-# Day41: Write a Docker File
+# Day 41: Write a Docker File
 
 # 1. Login into server
   $  ssh user@host

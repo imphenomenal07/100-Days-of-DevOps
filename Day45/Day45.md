@@ -1,4 +1,4 @@
-# Day45: Resolve Dockerfile Issues
+# Day 45: Resolve Dockerfile Issues
 
 # 1. Login into server
   $  ssh user@host

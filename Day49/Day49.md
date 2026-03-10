@@ -1,4 +1,4 @@
-# Day49: Deploy Applications with Kubernetes Deployments
+# Day 49: Deploy Applications with Kubernetes Deployments
 
 # 1. Create a deployment file for creating pods
   $  vi deployment.yaml

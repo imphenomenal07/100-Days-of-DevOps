@@ -1,4 +1,4 @@
-# Day48: Deploy Pods in Kubernetes Cluster
+# Day 48: Deploy Pods in Kubernetes Cluster
 
 # 1. To deploy pod, create a YAML file with give configurations
   $  vi pod.yaml

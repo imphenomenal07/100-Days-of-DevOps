@@ -1,4 +1,4 @@
-# Day43: Docker Ports Mapping
+# Day 43: Docker Ports Mapping
 
 # 1. Login into server
   $  ssh user@host

@@ -1,4 +1,4 @@
-# Day26: Git Manage Remotes
+# Day 26: Git Manage Remotes
 
 # 1. Login into the server
   $ ssh user@host

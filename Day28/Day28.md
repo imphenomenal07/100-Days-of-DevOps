@@ -1,4 +1,4 @@
-# Day28: Git Cherry Pick
+# Day 28: Git Cherry Pick
 
 # 1. Login into storage server
   $  ssh user@host

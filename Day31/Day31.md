@@ -1,4 +1,4 @@
-# Day31: Git Stash
+# Day 31: Git Stash
 
 # 1. Login into the server
   $  ssh user@host

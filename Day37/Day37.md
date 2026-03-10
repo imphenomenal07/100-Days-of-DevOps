@@ -1,4 +1,4 @@
-# Day37: Copy File to Docker Container
+# Day 37: Copy File to Docker Container
 
 # 1. Login into the server
   $  ssh user@host

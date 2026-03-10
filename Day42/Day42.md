@@ -1,4 +1,4 @@
-# Day42: Create a Docker Network
+# Day 42: Create a Docker Network
 
 # 1. Login into server
   $  ssh user@host
