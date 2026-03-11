@@ -1,4 +1,4 @@
-# Day24: Git Create Branches
+# Day 24: Git Create Branches
 
 # 1. Login into the storage server
   $ ssh user@server
