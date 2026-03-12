@@ -1,4 +1,4 @@
-# Day25: Git Merge Branches
+# Day 25: Git Merge Branches
 
 # 1. Login into storage server
   $ ssh user@server
