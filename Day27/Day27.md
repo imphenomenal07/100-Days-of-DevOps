@@ -1,4 +1,4 @@
-# Day27: Git Revert Some Changes
+# Day 27: Git Revert Some Changes
 
 # 1. Login into storage server
   $ ssh user@host
