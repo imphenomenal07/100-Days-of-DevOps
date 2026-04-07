@@ -1,4 +1,4 @@
-# Day29: Manage Git Pull Requests
+# Day 29: Manage Git Pull Requests
 
 # UI login info:
 
