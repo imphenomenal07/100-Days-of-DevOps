@@ -1,4 +1,4 @@
-# Day30: Git hard reset
+# Day 30: Git hard reset
 
 # 1. Login into the server
   $ ssh user@host
