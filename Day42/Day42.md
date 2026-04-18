@@ -21,4 +21,4 @@
   network-name
 
 # 4. To check the network configuration, inspect the docker network
-  $  dicker network inspect network-name
+  $  docker network inspect network-name
