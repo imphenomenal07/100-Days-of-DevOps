@@ -1,4 +1,4 @@
-# Day32: Git Rebase
+# Day 32: Git Rebase
 
 # 1. Login into the server
   $  ssh user@host
