@@ -1,4 +1,4 @@
-# Day33: Resolve Git Merge Conflicts
+# Day 33: Resolve Git Merge Conflicts
 
 # 1. Login into the max server with storage host
   $  ssh max@ststor01
