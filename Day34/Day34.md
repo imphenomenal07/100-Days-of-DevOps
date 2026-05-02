@@ -1,4 +1,4 @@
-# Day34: Git Hook
+# Day 34: Git Hook
 
 # 1. Login into user
   $  ssh user@host
