@@ -1,4 +1,4 @@
-# Day35: Install Docker Packages and Start Docker Service
+# Day 35: Install Docker Packages and Start Docker Service
 
 # 1. Login into the server and switch to root user
   $  ssh user@host
