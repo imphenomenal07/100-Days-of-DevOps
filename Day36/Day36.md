@@ -1,4 +1,4 @@
-# Day36: Deploy Nginx Container on Application Server
+# Day 36: Deploy Nginx Container on Application Server
 
 # 1. Login into server and switch to root user
   $  ssh user@host
