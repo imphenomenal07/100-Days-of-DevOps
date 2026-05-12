@@ -1,10 +1,11 @@
 # 100 Days of DevOps – Repository Summary
 
-# Link to Certificate:- https://engineer.kodekloud.com/certificate-verification/20d35c88-ac99-4cd3-b683-a30f98f0b5b4
+# Link to Certificate:-
+https://engineer.kodekloud.com/certificate-verification/20d35c88-ac99-4cd3-b683-a30f98f0b5b4
 
-➡️ This repository documents my hands-on journey through the 100 Days of DevOps challenge by KodeKloud
+# This repository documents my hands-on journey through the 100 Days of DevOps challenge by KodeKloud
 
-# Throughout this challenge, I worked on real-world DevOps concepts, tools, and automation practices while building practical skills across infrastructure, containerization, orchestration, CI/CD, and Infrastructure as Code (IaC).
+➡️ Throughout this challenge, I worked on real-world DevOps concepts, tools, and automation practices while building practical skills across infrastructure, containerization, orchestration, CI/CD, and Infrastructure as Code (IaC).
 
 # Technologies & Topics Covered
 🐧 Linux
