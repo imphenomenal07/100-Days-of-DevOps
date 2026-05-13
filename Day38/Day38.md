@@ -1,4 +1,4 @@
-# Day38: Pull Docker Image
+# Day 38: Pull Docker Image
 
 # 1. Login into server and check status of docker service
   $  ssh user@host
