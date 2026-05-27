@@ -10,17 +10,11 @@ https://engineer.kodekloud.com/certificate-verification/20d35c88-ac99-4cd3-b683-
 # Technologies & Topics Covered:
 
 🐧 **Linux**
-
 🌱 **Git & Version Control**
-
 🐳 **Docker**
-
 ☸️ **Kubernetes (K8s)**
-
 🔧 **Jenkins**
-
 ⚙️ **Ansible**
-
 🏗️ **Terraform**
 
 # Key Learning Outcomes:
