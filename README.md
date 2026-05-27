@@ -8,13 +8,13 @@ https://engineer.kodekloud.com/certificate-verification/20d35c88-ac99-4cd3-b683-
 ➡️ Throughout this challenge, I worked on real-world DevOps concepts, tools, and automation practices while building practical skills across infrastructure, containerization, orchestration, CI/CD, and Infrastructure as Code (IaC).
 
 # Technologies & Topics Covered
-🐧 Linux
-🌱 Git & Version Control
-🐳 Docker
-☸️ Kubernetes (K8s)
-🔧 Jenkins
-⚙️ Ansible
-🏗️ Terraform
+🐧 **Linux**
+🌱 **Git & Version Control**
+🐳 **Docker**
+☸️ **Kubernetes (K8s)**
+🔧 **Jenkins**
+⚙️ **Ansible**
+🏗️ **Terraform**
 
 # Key Learning Outcomes
 
