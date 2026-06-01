@@ -30,5 +30,6 @@
 # 10. To verify if service is active and running
 #Open new terminal and curl the service
 
-  $  curl localhost:6100
-  $  curl containerIP:6100
+$  curl localhost:6100
+
+$  curl containerIP:6100
