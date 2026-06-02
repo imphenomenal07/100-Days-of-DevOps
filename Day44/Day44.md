@@ -17,6 +17,7 @@
 version: "3.9"
 
 services:
+
   web:
     image: httpd:latest
     container_name: httpd
