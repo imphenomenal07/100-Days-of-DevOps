@@ -15,7 +15,9 @@
 # Add below content to file
 
 version: "3.9"
+
 services:
+
   web:
   
     image: httpd:latest
