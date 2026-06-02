@@ -19,10 +19,14 @@ version: "3.9"
 services:
 
   web:
+  
     image: httpd:latest
+    
     container_name: httpd
+    
     ports:
       - "5000:80"
+      
     volumes:
       - /opt/sysops:/usr/local/apache2/htdocs
 
