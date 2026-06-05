@@ -1,9 +1,7 @@
-# Linux user setup with Non-Interactive shell
+# Day 1: Linux user setup with Non-Interactive shell
 path : etc/passwd
 
 Shell: usr/bin/nologin
-
-# steps to perform the task
 
 # 1. Login into the mentioned server with username and password
 
