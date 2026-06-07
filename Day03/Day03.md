@@ -2,16 +2,15 @@
 
 This task needs to be perfomred on all APP SERVERS: stapp01. stapp02 and stapp03
 
-# 1. Login into server:
+# 1. Login into server
 $ ssh username@servername
 
 # 2. Switch to root user
 $ sudo su -
 
-# 3. Check for config files:
+# 3. Check for config files
 
 $ sudo vi /etc/ssh/sshd_config
-
 # File will be opened in vim editor mode
 
 Now search for "**PermitRootLogin**"
@@ -22,6 +21,5 @@ Now save and exit from the editor mode
 
 # 4. Now restart sshd service
 $ sudo systemctl restart sshd
-
 
 # Perfrom same steps for all users
