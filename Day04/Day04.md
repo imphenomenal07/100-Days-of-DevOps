@@ -1,4 +1,4 @@
-Day: Script Execution Permissions
+# Day 4: Script Execution Permissions
 
 1. Login into the server
 $ ssh username@servername
