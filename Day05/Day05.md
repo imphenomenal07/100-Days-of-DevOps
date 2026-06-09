@@ -1,9 +1,9 @@
-Day5: SELinux installation and configuration
+# Day 5: SELinux installation and configuration
 
-1. Check os
+# 1. Check os
 $ cat /etc/or-release
 
-2. Check if the SELinux is already installed or not
+# 2. Check if the SELinux is already installed or not
 $ sestatus
 
 if you get "SELINUX = disable", means SELinux is installed. In case of error, not installed.
