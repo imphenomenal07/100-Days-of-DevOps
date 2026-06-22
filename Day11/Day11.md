@@ -1,20 +1,20 @@
 # Day 11: Install and Configure Tomcat Server
 
-Move war file jumphost to app server
+# Move war file jumphost to app server
 $ scp /tmp/ROOT.war tony@stapp01:/tmp
 
-1. Login into serer
+# 1. Login into serer
 $ ssh username@server
 
-2. Check OS distribution
+# 2. Check OS distribution
 $ cat /etc/os-release
 
-3. Install tomcat
+# 3. Install tomcat
 $ sudo yum install tomcat -y
 
 # Configure tomcat to run on port 8084
 
-5. Go to the below directory
+# 5. Go to the below directory
 $ cd /etc/tomcat
 
 6. Search for "server.xml" and open in editor mode
