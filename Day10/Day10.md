@@ -26,15 +26,15 @@ $ chmod +x /scripts/official_backup.sh
 
 # For passwordless execution on Backup server, create ssh key and copy it to backup user
 
-5. Create access key
+# 5. Create access key
 
 $ ssh-keygen -t rsa
 
-6. Copy it to backup server
+# 6. Copy it to backup server
 
 $ ssh-copy-id clint@stbkp01
 
-# Now run the script
+# 7. Now run the script
 
-7. $ bash /scripts/official_backup.sh
+$ bash /scripts/official_backup.sh
 
