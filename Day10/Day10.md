@@ -1,14 +1,14 @@
 # Day 10: Linux Bash Script
 
-1. Login into the server
+# 1. Login into the server
 
 $ ssh username@server
 
-2. Install zip to run task on server
+# 2. Install zip to run task on server
 
 $ sudo yum install zip -y
 
-3. Create script as mentioned in the task
+# 3. Create script as mentioned in the task
 
 $ vi /scripts/official_backup.sh
 
@@ -18,9 +18,9 @@ zip -r backup/xfusioncorp_blog.zip /var/www/html/official
 
 scp backup/xfusioncorp_blog.zip clint@stbkp01:/backup
 
-Now save and exit from the script
+#Now save and exit from the script
 
-4. Give executable permission to script
+# 4. Give executable permission to script
 
 $ chmod +x /scripts/official_backup.sh
 
