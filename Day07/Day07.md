@@ -1,4 +1,4 @@
-Day7: Linux SSH Authentication
+# Day7: Linux SSH Authentication
 
 1. For Passwordless, we need SSH key to login
 
