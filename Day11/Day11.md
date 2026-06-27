@@ -24,7 +24,7 @@ Search for **connector port**
 
 Connector port="8080" protocol="org.apache.coyote.http11.Http11NioProtocol"
 
-Now change connector port "8080" to "8084", save and quit
+Now **change** connector port "**8080**" to "**8084**", save and quit
 
 # 7. Now move war file to correct location
 
@@ -37,6 +37,7 @@ $ sudo chown tomcat:tomcat /usr/share/tomcat/webapps/ROOT.war
 # 9. Now enable and start the service
 
 $ sudo systemctl enable tomcat
+
 $ sudo systemctl start tomcat
 
 # 10. Now call the service on the app server
