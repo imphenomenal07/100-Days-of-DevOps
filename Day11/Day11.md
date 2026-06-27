@@ -12,7 +12,7 @@ $ cat /etc/os-release
 # 3. Install tomcat
 $ sudo yum install tomcat -y
 
-# Configure tomcat to run on port 8084
+Configure **tomcat** to run on port **8084**
 
 # 5. Go to the below directory
 $ cd /etc/tomcat
@@ -20,11 +20,11 @@ $ cd /etc/tomcat
 # 6. Search for "server.xml" and open in editor mode
 $ vi server.xml
 
-Search for connector port
+Search for **connector port**
 
 Connector port="8080" protocol="org.apache.coyote.http11.Http11NioProtocol"
 
-Now change connector port "8080" to "8084", save and quit>
+Now change connector port "8080" to "8084", save and quit
 
 # 7. Now move war file to correct location
 
