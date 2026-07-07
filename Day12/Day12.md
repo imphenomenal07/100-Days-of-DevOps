@@ -18,17 +18,17 @@ $ sudo systemctl status https
 
 $ sudo systemctl restart httpd
 
-Perform telnet task in new terminal on jump host server, if service is started.
+**Perform telnet task in new terminal on jump host server, if service is started**
 
 # 5. If you still face connectivity issue, then perfrom netstat task
 
 $ sudo netstat -lntp | grep  port number
 
-this is to check which process is using port number
+**this is to check which process is using port number**
 
 # 6. Now kill/terminate the process
 
-$ sudo kill Process ID
+$ sudo kill ProcessID
 
 # 7. Now restart the httpd service and check status. If this active and running, do telnet in another terminal
 
@@ -42,4 +42,4 @@ $ sudo iptable -L -n
 
 $ sudo iptable -I INPUT 1or5 -p tcp --dport <PortNumber> -i ACCEPT
 
--I INPUT 1 or -I INPUT 5 : To set process execution priority
+**-I INPUT 1 or -I INPUT 5 : To set process execution priority
