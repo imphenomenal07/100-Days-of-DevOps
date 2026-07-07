@@ -42,4 +42,4 @@ $ sudo iptable -L -n
 
 $ sudo iptable -I INPUT 1or5 -p tcp --dport <PortNumber> -i ACCEPT
 
-**-I INPUT 1 or -I INPUT 5 : To set process execution priority
+**-I INPUT 1 or -I INPUT 5 : To set process execution priority**
